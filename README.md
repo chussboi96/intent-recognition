@@ -1,10 +1,10 @@
-- Voice-Based LLM Assistant
+**Voice-Based LLM Assistant
 A voice-enabled chatbot system using Whisper for speech recognition and Qwen LLM for response generation. Features parallel processing of queries through multiple specialized analysis paths.
 
 - Features
 1. Voice input processing using Whisper Large V3
 2. Query intent classification with spaCy
-3. Parallel query processing paths: analysis, fact-checking, classification, detailed explanation, and summarization
+3. Parallel query processing using langgraph: analysis, fact-checking, classification, detailed explanation, and summarization
 4. Response synthesis combining multiple analysis perspectives
 
 - Requirements
@@ -12,6 +12,7 @@ A voice-enabled chatbot system using Whisper for speech recognition and Qwen LLM
 -- Python 3.8+
 -- Ollama with Qwen2.5:3b model installed
 -- SpaCy intent classifier model (path: C:\Users\LOQ\intent_classifier)
+-- Langchain, Langgraph
 
 
 -Quick Start
