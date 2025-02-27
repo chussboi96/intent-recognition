@@ -1,0 +1,10 @@
+{
+  "labels":[
+    "classify",
+    "factcheck",
+    "summarize",
+    "analyze",
+    "detail"
+  ],
+  "threshold":0.5
+}

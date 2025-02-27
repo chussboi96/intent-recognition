@@ -1,0 +1,15 @@
+# requirements.txt
+torch==2.5.1+cu121
+torchaudio==2.5.1+cu121
+torchvision==0.20.1+cu121
+transformers==4.38.1
+sounddevice==0.4.6
+numpy==1.24.3
+spacy==3.7.4
+langgraph==0.0.15
+langchain==0.1.9
+langchain-core==0.1.27
+langchain-community==0.0.24
+typing-extensions==4.9.0
+uuid==1.30
+python-dotenv==1.0.1
