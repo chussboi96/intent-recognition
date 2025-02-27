@@ -1,4 +1,4 @@
-**Voice-Based LLM Assistant
+**Voice-Based LLM Assistant:**
 A voice-enabled chatbot system using Whisper for speech recognition and Qwen LLM for response generation. Features parallel processing of queries through multiple specialized analysis paths.
 
 - Features
